@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="585.0" prefWidth="873.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.TeacherSource.Controller.AddGrades">
+   <children>
+      <TableView id="table" fx:id="table" layoutY="60.0" prefHeight="441.0" prefWidth="873.0">
+        <columns>
+            <TableColumn id="IDSTUD" fx:id="IDSTUD" prefWidth="75.0" text="ID" />
+            
+                      <TableColumn id="UCZEN" fx:id="UCZEN" prefWidth="211.0" text="Uczeń" />
+          <TableColumn id="OCENA" fx:id="OCENA" minWidth="0.0" prefWidth="177.0" text="Ocena" />
+        </columns>
+      </TableView>
+      <JFXButton id="zapisz" fx:id="zapisz" layoutX="733.0" layoutY="530.0" onMousePressed="#addGrades" style="-fx-background-color: #000; -fx-text-fill: #fff;" text="Sporządź protokół" />
+      <ChoiceBox fx:id="choiceKlasa" layoutX="122.0" layoutY="23.0" prefWidth="150.0" />
+      <Label layoutX="58.0" layoutY="27.0" text="Zajęcia:" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="233.0" prefWidth="426.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.TeacherSource.Controller.Usprawiedliwienie">
+   <children>
+
+      <ChoiceBox id="choiceL" fx:id="choiceL" layoutX="63.0" layoutY="104.0" prefWidth="150.0" />
+      <JFXButton id="zapisz" fx:id="zapisz" layoutX="266.0" layoutY="104.0" onMousePressed="#addAtt" style="-fx-background-color: #000000;" textFill="WHITE" text="Zapisz obecności" />
+   </children>
+</AnchorPane>

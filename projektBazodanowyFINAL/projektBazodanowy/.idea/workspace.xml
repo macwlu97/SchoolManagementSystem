@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbc26d3e-752f-418f-af69-a10cc739bec8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="zarzadzanieObecnosciami.fxml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/zarzadzanieObecnosciami.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="23" column="96" lean-forward="false" selection-start-line="23" selection-start-column="96" selection-end-line="23" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectChild</find>
+      <find>image</find>
+      <find>getclas</find>
+      <find>ocenyChildUse</find>
+      <find>font</find>
+      <find>dimen</find>
+      <find>myChi</find>
+      <find>serio</find>
+      <find>select</find>
+      <find>pobierz</find>
+      <find>OknoAplikacji</find>
+      <find>app</find>
+      <find>low</find>
+      <find>bee</find>
+      <find>cos</find>
+      <find>choiceL</find>
+      <find>getChild</find>
+      <find>plan</find>
+      <find>czw</find>
+      <find>wt</find>
+      <find>flowx</find>
+      <find>getPl</find>
+      <find>getAt</find>
+      <find>tmpStat</find>
+      <find>get</find>
+      <find>getSt</find>
+      <find>klasa</find>
+      <find>informacje</find>
+      <find>values</find>
+      <find>ucznio</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ConfigBaza</replace>
+      <replace>cos</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Helpers/Przedmiot.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/OcenyController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/DriverDB.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Model/DriverDB.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AppController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/AppController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/View/Templates/Admin.fxml" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/View/Templates/Parent.fxml" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/ObecnoscControllerS.java" />
+        <option value="$PROJECT_DIR$/src/app.fxml" />
+        <option value="$PROJECT_DIR$/src/AppController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/ClassCreator.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Model/GetTeacher.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddSubject.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/ClassActions.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/AddComments.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/StudentActions.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/DriverDB.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetInformation.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetSubjects.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/AddGrades.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/AddGrades.fxml" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/Lessons.fxml" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/AddOneGrade.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/LessonsController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/SubjectsParticipantsController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetChildInformation.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetUwagi.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetInformationTeacher.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/PlanSwitch.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/selectAttendance.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Helpers/Plan.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddLessons.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Model/GetSubjects.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddStudent.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetChild.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetStudents.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/AppController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/Teacher.fxml" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Helpers/Klasa.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetLessons.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetClass.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetChildSubject.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/zarzadzanieObecnosciamiController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetStat.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/AddAttendance.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/CzySprawdzanoObecnosc.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/MySubjectsController.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetAttendance.java" />
+        <option value="$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/zarzadzanieObecnosciami.fxml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="8" />
+    <option name="y" value="83" />
+    <option name="width" value="1230" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edziennik" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edziennik" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherSource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edziennik" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherSource" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edziennik" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherSource" type="462c0819:PsiDirectoryNode" />
+              <item name="Helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edziennik" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherSource" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edziennik" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherSource" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projektBazodanowy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projektBazodanowy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edziennik" type="462c0819:PsiDirectoryNode" />
+              <item name="TeacherSource" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Foldery/3082018/fontawesomefx-8.1.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\macie\IdeaProjects\projektBazodanowy\src\pl\edziennik\TeacherSource\View\Templates" />
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ\src\pl\edziennik\TeacherSource\View\Templates" />
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ\src\pl\edziennik\AdminSource\View\Templates" />
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ\src" />
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ\src\pl\edziennik\ParentSource\View\Templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.edziennik.TeacherSource.Helpers" />
+      <recent name="pl.edziennik.TeacherSource.Controller" />
+      <recent name="pl.edziennik.AdminSource.Helpers" />
+      <recent name="pl.edziennik.ParentSource.Model" />
+      <recent name="pl.edziennik.AdminSource.Controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ\src" />
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ" />
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ\src\pl\edziennik\ParentSource\View\Templates" />
+      <recent name="C:\Users\macie\IdeaProjects\projektEGZ\tmp" />
+      <recent name="C:\Users\macie\IdeaProjects\oraclejdbc\src\pl\edziennik\TeacherSource\View\Templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oraclejdbc" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="OknoLogowania" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oraclejdbc" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.edziennik.TeacherSource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pl.edziennik.TeacherSource.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oraclejdbc" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.edziennik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pl.edziennik.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oraclejdbc" />
+      <envs />
+    </configuration>
+    <configuration name="TeacherView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.edziennik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pl.edziennik.TeacherView" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oraclejdbc" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TeacherView" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TeacherView" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbc26d3e-752f-418f-af69-a10cc739bec8" name="Default" comment="" />
+      <created>1523361978500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523361978500</updated>
+      <workItem from="1523361983785" duration="16717000" />
+      <workItem from="1523397407540" duration="4840000" />
+      <workItem from="1523457931226" duration="3672000" />
+      <workItem from="1523466234805" duration="1480000" />
+      <workItem from="1523566242907" duration="598000" />
+      <workItem from="1523645688263" duration="1404000" />
+      <workItem from="1523659435483" duration="152000" />
+      <workItem from="1523964540898" duration="10505000" />
+      <workItem from="1523983666979" duration="4080000" />
+      <workItem from="1523993567890" duration="1758000" />
+      <workItem from="1524053442344" duration="805000" />
+      <workItem from="1524059317047" duration="595000" />
+      <workItem from="1524080189979" duration="1201000" />
+      <workItem from="1524146098143" duration="488000" />
+      <workItem from="1524319333733" duration="1058000" />
+      <workItem from="1524404621549" duration="1282000" />
+      <workItem from="1524431675511" duration="605000" />
+      <workItem from="1524568923751" duration="14305000" />
+      <workItem from="1524590908602" duration="16810000" />
+      <workItem from="1524665567509" duration="21335000" />
+      <workItem from="1524779716131" duration="1228000" />
+      <workItem from="1524851354548" duration="12833000" />
+      <workItem from="1525127515124" duration="877000" />
+      <workItem from="1525359166833" duration="647000" />
+      <workItem from="1525385747933" duration="2006000" />
+      <workItem from="1525397741611" duration="32553000" />
+      <workItem from="1525641571815" duration="616000" />
+      <workItem from="1526285268303" duration="4430000" />
+      <workItem from="1526299794529" duration="443000" />
+      <workItem from="1526302595246" duration="855000" />
+      <workItem from="1526332684362" duration="1243000" />
+      <workItem from="1526389376747" duration="1733000" />
+      <workItem from="1526392554268" duration="22581000" />
+      <workItem from="1526420839995" duration="935000" />
+      <workItem from="1526481291861" duration="4612000" />
+      <workItem from="1526592254292" duration="48561000" />
+      <workItem from="1526757201042" duration="21270000" />
+      <workItem from="1526890248156" duration="799000" />
+      <workItem from="1526897266129" duration="5464000" />
+      <workItem from="1526906562083" duration="710000" />
+      <workItem from="1526912324686" duration="797000" />
+      <workItem from="1526913828607" duration="3664000" />
+      <workItem from="1527093928469" duration="987000" />
+      <workItem from="1527170051992" duration="1209000" />
+      <workItem from="1527171588608" duration="635000" />
+      <workItem from="1527277531648" duration="18481000" />
+      <workItem from="1527458247944" duration="2070000" />
+      <workItem from="1527460827202" duration="17024000" />
+      <workItem from="1527493921379" duration="2300000" />
+      <workItem from="1527507344032" duration="5426000" />
+      <workItem from="1527596654087" duration="10558000" />
+      <workItem from="1527623863885" duration="1432000" />
+      <workItem from="1527805815218" duration="864000" />
+      <workItem from="1527880054582" duration="2994000" />
+      <workItem from="1527968192056" duration="30198000" />
+      <workItem from="1528032488141" duration="1635000" />
+      <workItem from="1528100097545" duration="1353000" />
+      <workItem from="1528117036422" duration="3350000" />
+      <workItem from="1528205673692" duration="18258000" />
+      <workItem from="1528290691619" duration="1116000" />
+      <workItem from="1528705296880" duration="656000" />
+      <workItem from="1528812281717" duration="5194000" />
+      <workItem from="1528903254204" duration="386000" />
+      <workItem from="1529192992195" duration="19191000" />
+      <workItem from="1529327483620" duration="61059000" />
+      <workItem from="1529442988330" duration="1039000" />
+      <workItem from="1529515287547" duration="3779000" />
+      <workItem from="1529576501030" duration="895000" />
+      <workItem from="1529586587192" duration="5959000" />
+      <workItem from="1529653602594" duration="3800000" />
+      <workItem from="1529692103028" duration="17167000" />
+      <workItem from="1529965117854" duration="316000" />
+      <workItem from="1530040395646" duration="3701000" />
+      <workItem from="1530087045726" duration="6529000" />
+      <workItem from="1532002729043" duration="646000" />
+      <workItem from="1533521031016" duration="3903000" />
+      <workItem from="1533661235567" duration="2589000" />
+      <workItem from="1533688398180" duration="25573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="554819000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32038835" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30744338" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Model/GetSubjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="64" column="42" lean-forward="false" selection-start-line="62" selection-start-column="96" selection-end-line="64" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/View/Templates/AddSubject.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/untitled-2-3/untitled-2 3/src/company/Start.java" />
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/DriverDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Model/GetClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/ClassActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2058">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Helpers/getTableViewValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <marker date="1529367982159" expanded="true" signature="2043:2204" ph="INSERT INTO Rodzice... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Model/DriverDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="55" column="3" lean-forward="false" selection-start-line="55" selection-start-column="3" selection-end-line="70" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="147" column="113" lean-forward="false" selection-start-line="147" selection-start-column="113" selection-end-line="147" selection-end-column="113" />
+          <folding>
+            <marker date="1533709367361" expanded="true" signature="4963:5175" ph="INSERT INTO Uczniowie... " />
+            <marker date="1533709367361" expanded="true" signature="4963:5212" ph="INSERT INTO Uczniowie... " />
+            <marker date="1533709367361" expanded="true" signature="5242:5516" ph="INSERT INTO Uczniowie... " />
+            <marker date="1533709367361" expanded="true" signature="5703:5780" ph="INSERT INTO rodziceuczniowie... " />
+            <marker date="1533709367361" expanded="true" signature="5703:5794" ph="INSERT INTO rodziceuczniowie... " />
+            <marker date="1533709367361" expanded="true" signature="5703:5795" ph="INSERT INTO rodziceuczniowie... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/View/Templates/AddClass.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="20" column="157" lean-forward="false" selection-start-line="20" selection-start-column="157" selection-end-line="20" selection-end-column="157" />
+          <folding>
+            <marker date="1533710326011" expanded="true" signature="535:594" ph="SELECT * FRO... Uczniowie" />
+            <marker date="1533710326011" expanded="true" signature="621:629" ph="SELECT *\nFR... uczniowie" />
+            <marker date="1533710326011" expanded="true" signature="621:741" ph="SELECT * FRO... uczniowie" />
+            <marker date="1533710326011" expanded="true" signature="621:756" ph="SELECT * FRO... Uczniowie" />
+            <marker date="1533710326011" expanded="true" signature="1554:1605" ph="SELECT * FRO... Uczniowie" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/MySubjects.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/Teacher.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/SubjectsParticipants.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/javafx.controls/javafx/scene/control/DatePicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="112" column="11" lean-forward="false" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/AdminSource/Controller/AddLessons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <marker date="1529858769103" expanded="true" signature="5304:5454" ph="..." />
+            <marker date="1529858769103" expanded="true" signature="7417:7568" ph="INSERT INTO PLAN... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Helpers/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Helpers/Uczniowie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Helpers/Przedmioty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Helpers/Zajecia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <marker date="1533783181517" expanded="true" signature="669:743" ph="SELECT * FRO... Klasa" />
+            <marker date="1533783181517" expanded="true" signature="873:931" ph="SELECT * FRO... Uczniowie" />
+            <marker date="1533783181517" expanded="true" signature="1658:1716" ph="SELECT KLASA... PLAN" />
+            <marker date="1533783181517" expanded="true" signature="2024:2076" ph="SELECT NAZWA... KLASA" />
+            <marker date="1533783181517" expanded="true" signature="2453:2645" ph="SELECT * FRO... KLASA" />
+            <marker date="1533783181517" expanded="true" signature="2453:2647" ph="SELECT * FRO... klasa" />
+            <marker date="1533783181517" expanded="true" signature="2676:2750" ph="SELECT * FRO... Uczniowie" />
+            <marker date="1533783181517" expanded="true" signature="2779:3049" ph="SELECT * FRO... klasa" />
+            <marker date="1533783181517" expanded="true" signature="2779:3050" ph="SELECT * FRO... KLASA" />
+            <marker date="1533783181517" expanded="true" signature="2779:3068" ph="SELECT * FRO... KLASA" />
+            <marker date="1533783181517" expanded="true" signature="2779:3070" ph="SELECT DISTI... KLASA" />
+            <marker date="1533783181517" expanded="true" signature="2820:2961" ph="SELECT KLASA... PLAN" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Helpers/Klasa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetLessons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <marker date="1533782949680" expanded="true" signature="593:674" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="1384:1403" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="1384:1519" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="1384:1571" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="1384:1572" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="1384:1591" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="1384:1614" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="1384:1628" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="2261:2280" ph="SELECT * FRO... PLAN" />
+            <marker date="1533782949680" expanded="true" signature="2261:2308" ph="SELECT * FRO... PLAN" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetChildSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="93" column="46" lean-forward="true" selection-start-line="93" selection-start-column="46" selection-end-line="93" selection-end-column="46" />
+          <folding>
+            <marker date="1533785632070" expanded="true" signature="513:906" ph="SELECT DISTI... PRZEDMIOTY_ID_PRZEDMIOTU" />
+            <marker date="1533785632070" expanded="true" signature="582:905" ph="SELECT PLAN.... PLAN" />
+            <marker date="1533785632070" expanded="true" signature="2128:2235" ph="SELECT * FRO... OCENY" />
+            <marker date="1533785632070" expanded="true" signature="2957:3221" ph="SELECT PLAN.... PLAN" />
+            <marker date="1533785632070" expanded="true" signature="4374:4494" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533785632070" expanded="true" signature="5359:5415" ph="SELECT * FRO... OBECNOSC" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1533710566128" expanded="true" signature="592:650" ph="SELECT * FRO... Uczniowie" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/zarzadzanieObecnosciamiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="238" column="41" lean-forward="false" selection-start-line="238" selection-start-column="41" selection-end-line="238" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8041#9573#0" expanded="true" />
+            <element signature="e#9572#9573#0" expanded="true" />
+            <marker date="1533787843385" expanded="true" signature="12017:12111" ph="INSERT INTO OBECNOSC... " />
+            <marker date="1533787843385" expanded="true" signature="12017:12137" ph="INSERT INTO OBECNOSC... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Model/GetStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <marker date="1533788837680" expanded="true" signature="683:902" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533788837680" expanded="true" signature="683:912" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533788837680" expanded="true" signature="719:846" ph="SELECT id_za... PLAN" />
+            <marker date="1533788837680" expanded="true" signature="941:998" ph="SELECT * FRO... OBECNOSC" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Helpers/Attendance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/ObecnoscControllerS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2345">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/selectAttendance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="61" column="114" lean-forward="false" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/AddAttendance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/CzySprawdzanoObecnosc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/ParentSource/Controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/SubjectsParticipantsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/MySubjectsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="103" column="48" lean-forward="true" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/MyClassController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/Usprawiedliwienie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1527345093760" expanded="true" signature="2923:2985" ph="UPDATE OBECNOSC... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Controller/StudentActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <marker date="1529848015797" expanded="true" signature="4710:4865" ph="INSERT INTO UWAGI... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/Model/GetAttendance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="93" lean-forward="false" selection-start-line="32" selection-start-column="93" selection-end-line="32" selection-end-column="93" />
+          <folding>
+            <marker date="1533794074374" expanded="true" signature="814:1057" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="850:977" ph="SELECT id_za... PLAN" />
+            <marker date="1533794074374" expanded="true" signature="1307:1389" ph="SELECT * FRO... Przedmioty" />
+            <marker date="1533794074374" expanded="true" signature="1897:1923" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="1897:1932" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="1897:1963" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="1897:1973" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="2220:2291" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="2220:2306" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="2220:2322" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="2220:2329" ph="SELECT * FRO... OBECNOSC" />
+            <marker date="1533794074374" expanded="true" signature="2220:2332" ph="SELECT * FRO... OBECNOSC" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/AddAttendance.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/edziennik/TeacherSource/View/Templates/zarzadzanieObecnosciami.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="96" lean-forward="false" selection-start-line="23" selection-start-column="96" selection-end-line="23" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>oraclejdbc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>fontawesomefx-8.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

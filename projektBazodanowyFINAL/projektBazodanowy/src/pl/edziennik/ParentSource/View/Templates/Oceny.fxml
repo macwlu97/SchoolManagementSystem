@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="398.0" prefWidth="648.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.ParentSource.Controller.OcenyController">
+   <children>
+      <TableView id="table" fx:id="table" layoutY="-3.0" prefHeight="404.0" prefWidth="648.0">
+        <columns>
+          <TableColumn id="NAZWA" fx:id="NAZWA" prefWidth="75.0" text="Przedmiot" />
+          <TableColumn id="OCENY" fx:id="OCENY" prefWidth="467.0" text="Oceny" />
+            <TableColumn id="SREDNIA" fx:id="SREDNIA" minWidth="0.0" prefWidth="104.0" text="Średnia" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

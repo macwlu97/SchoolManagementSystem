@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXToolbar?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane onMouseDragged="#dragged" onMousePressed="#pressed" prefHeight="446.0" prefWidth="704.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.TeacherSource.Controller.AppController">
+   <children>
+      <AnchorPane prefHeight="446.0" prefWidth="203.0" style="-fx-background-color: #1D2026;">
+         <children>
+            <Pane prefHeight="71.0" prefWidth="238.0" style="-fx-background-color: #1D2026;">
+               <children>
+                  <Label alignment="CENTER" layoutX="-5.0" layoutY="20.0" prefHeight="71.0" prefWidth="245.0" text="E-DZIENNIK" textFill="WHITE">
+                     <font>
+                        <Font name="Segoe UI Semibold" size="31.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <JFXButton layoutX="0.0" layoutY="116.0" onMousePressed="#obecnosci" prefHeight="30.0" prefWidth="250.0" ripplerFill="#f5f3f3" text="Zarządzanie obecnościami" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="BOOK" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font></JFXButton>
+            <JFXButton layoutX="43.0" layoutY="166.0" onMousePressed="#mojeprzedmioty" prefHeight="30.0" prefWidth="180.0" ripplerFill="#f5f3f3" text="Moje Przedmioty" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="BOOK" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font></JFXButton>
+            <JFXButton layoutX="52.0" layoutY="216.0" onMousePressed="#mojaklasa" prefHeight="29.0" prefWidth="128.0" ripplerFill="#f5f3f3" text="Moja klasa" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="USER" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font></JFXButton>
+            <JFXButton layoutX="52.0" layoutY="266.0" onMousePressed="#wyjscie" prefHeight="29.0" prefWidth="128.0" ripplerFill="#f5f3f3" text="Wyjście" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="USER" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font></JFXButton>
+            <JFXButton layoutX="52.0" layoutY="316.0" onMousePressed="#powrot" prefHeight="29.0" prefWidth="128.0" ripplerFill="#f5f3f3" text="Wyloguj" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="USER" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font></JFXButton>
+         </children>
+      </AnchorPane>
+      <JFXToolbar layoutX="278.0" layoutY="45.0" prefHeight="44.0" prefWidth="390.0">
+         <left>
+            <Label id="nameuser" fx:id="nameuser" graphicTextGap="9.0" prefHeight="63.0" prefWidth="300.0" text="Witaj, nick!" BorderPane.alignment="CENTER">
+               <graphic>
+                  <FontAwesomeIcon glyphName="PENCIL">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </FontAwesomeIcon>
+               </graphic>
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+         </left>
+      </JFXToolbar>
+      <Label id="information" fx:id="information" layoutX="264.0" layoutY="131.0" text="Edziennik dla nauczycieli&#10;
+By budować dobre relacje i owocną współpracę&#10;
+Korzystanie z dziennika elektronicznego umożliwia nauczycielom:&#10;
+>szybką i wygodną komunikację ze szkołą,&#10;
+>łatwy wgląd w bieżące dane dotyczące uczniów,&#10;
+>aktywne wspieranie dzieci w codziennej edukacji,&#10;
+>przygotowanie się do rozmowy z rodzicami." />
+   </children>
+</AnchorPane>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXToolbar?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane onMouseDragged="#dragged" onMousePressed="#pressed" prefHeight="466.0" prefWidth="704.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.ParentSource.Controller.AppController">
+   <children>
+      <AnchorPane prefHeight="466.0" prefWidth="203.0" style="-fx-background-color: #1D2026;">
+         <children>
+            <Pane prefHeight="71.0" prefWidth="238.0" style="-fx-background-color: #1D2026;">
+               <children>
+                  <Label alignment="CENTER" layoutX="-5.0" layoutY="20.0" prefHeight="71.0" prefWidth="245.0" text="E-DZIENNIK" textFill="WHITE">
+                     <font>
+                        <Font name="Segoe UI Semibold" size="31.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <JFXButton layoutY="116.0" onMousePressed="#informacje" prefHeight="30.0" prefWidth="238.0" ripplerFill="#f5f3f3" text="INFORMACJE" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="USER" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font></JFXButton>
+            <JFXButton layoutX="-1.0" layoutY="167.0" onMousePressed="#oceny" prefHeight="29.0" prefWidth="238.0" ripplerFill="#f5f3f3" text="OCENY" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="BOOK" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font></JFXButton>
+            <JFXButton layoutX="-1.0" layoutY="217.0" onMousePressed="#plan" prefHeight="29.0" prefWidth="238.0" ripplerFill="#f5f3f3" text="PLAN" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="TABLE" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="-1.0" layoutY="264.0" onMousePressed="#obecnosci" prefHeight="29.0" prefWidth="238.0" ripplerFill="#f5f3f3" text="OBECNOŚCI" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="COLUMNS" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="310.0" onMousePressed="#uwagi" prefHeight="29.0" prefWidth="238.0" ripplerFill="#f5f3f3" text="UWAGI" textFill="WHITE">
+               <graphic>
+                  <FontAwesomeIcon fill="WHITE" glyphName="COMMENT" />
+               </graphic>
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="360.0" onMousePressed="#powrot" prefHeight="29.0" prefWidth="238.0" ripplerFill="#f5f3f3" text="WYLOGUJ" textFill="WHITE">
+
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="410.0" onMousePressed="#wyjscie" prefHeight="29.0" prefWidth="238.0" ripplerFill="#f5f3f3" text="WYJŚCIE" textFill="WHITE">
+
+               <font>
+                  <Font name="Raleway" size="15.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <JFXToolbar layoutX="278.0" layoutY="45.0" prefHeight="44.0" prefWidth="390.0">
+         <left>
+            <Label id="nameuser" fx:id="nameuser" graphicTextGap="9.0" prefHeight="63.0" prefWidth="300.0" text="Witaj, nick!" BorderPane.alignment="CENTER">
+               <graphic>
+                  <FontAwesomeIcon glyphName="PENCIL">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </FontAwesomeIcon>
+               </graphic>
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+         </left>
+      </JFXToolbar>
+      <Label id="information" fx:id="information" layoutX="264.0" layoutY="131.0"   text="Edziennik dla rodziców&#10;
+By budować dobre relacje i owocną współpracę&#10;
+Korzystanie z dziennika elektronicznego umożliwia rodzicom:&#10;
+>szybką i wygodną komunikację ze szkołą,&#10;
+>łatwy wgląd w bieżące dane dotyczące dziecka,&#10;
+>aktywne wspieranie dzieci w codziennej edukacji,&#10;
+>przygotowanie się do rozmowy z nauczycielami." />
+      <ComboBox fx:id="choicechild" layoutX="531.0" layoutY="14.0" prefHeight="25.0" prefWidth="159.0" promptText="Twoje dzieci" />
+   </children>
+</AnchorPane>

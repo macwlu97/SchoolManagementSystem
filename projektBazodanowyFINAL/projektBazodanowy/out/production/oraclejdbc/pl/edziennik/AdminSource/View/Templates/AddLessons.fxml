@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="325.0" prefWidth="477.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.AdminSource.Controller.AddLessons">
+   <children>
+      <Label id="labelsub" fx:id="labelsub" layoutX="31.0" layoutY="41.0" prefHeight="17.0" prefWidth="236.0" text="Dodaj zajęcia" />
+      <JFXButton fx:id="dodaj" layoutX="339.0" layoutY="250.0" onMousePressed="#addT" prefHeight="25.0" prefWidth="94.0" style="-fx-background-color: #111111; -fx-text-fill: #fff;" text="Dodaj" />
+      <ChoiceBox fx:id="choiceR" layoutX="136.0" layoutY="76.0" prefWidth="150.0" />
+      <ChoiceBox fx:id="choiceK" layoutX="136.0" layoutY="115.0" prefWidth="150.0" />
+      <Label id="labelprzedmiot" fx:id="labelprzedmiot" layoutX="30.0" layoutY="80.0" prefHeight="17.0" prefWidth="80.0" text="Przedmiot" />
+      <Label id="labelklasa" fx:id="labelklasa" layoutX="30.0" layoutY="119.0" prefHeight="17.0" prefWidth="80.0" text="Klasa" />
+      <Label layoutX="30.0" layoutY="159.0" text="Godzina" />
+      <Label layoutX="30.0" layoutY="201.0" text="Dzień" />
+      <ChoiceBox fx:id="choiceGodz" layoutX="136.0" layoutY="155.0" prefWidth="150.0" />
+      <ChoiceBox fx:id="choiceDzi" layoutX="136.0" layoutY="197.0" prefWidth="150.0" />
+   </children>
+</AnchorPane>

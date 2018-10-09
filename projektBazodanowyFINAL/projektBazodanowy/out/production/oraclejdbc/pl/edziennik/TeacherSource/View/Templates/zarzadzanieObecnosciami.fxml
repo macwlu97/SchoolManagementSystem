@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="494.0" prefWidth="793.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.TeacherSource.Controller.zarzadzanieObecnosciamiController">
+   <children>
+      <TableView id="table" fx:id="table" layoutY="90.0" prefHeight="407.0" prefWidth="793.0">
+         <columns>
+            <TableColumn id="IDSTUD" fx:id="IDSTUD" prefWidth="75.0" text="ID" />
+
+            <TableColumn id="UCZEN" fx:id="UCZEN" prefWidth="211.0" text="Uczeń" />
+            <TableColumn id="OBECNOSC" fx:id="OBECNOSC" minWidth="0.0" prefWidth="158.0" text="Obecność" />
+         </columns>
+      </TableView>
+      <DatePicker id="datep" fx:id="datep"  layoutX="605.0" layoutY="14.0" />
+      <ChoiceBox id="przedmiotbox" fx:id="przedmiotbox" layoutX="24.0" layoutY="39.0" prefWidth="150.0" />
+      <ChoiceBox id="klasabox" fx:id="klasabox" layoutX="187.0" layoutY="39.0" prefWidth="150.0" />
+      <ChoiceBox id="zajeciabox" fx:id="zajeciabox" layoutX="350.0" layoutY="39.0" prefWidth="170.0" />
+      <Label layoutX="350.0" layoutY="18.0" text="Wybierz zajęcia" />
+      <Label layoutX="187.0" layoutY="18.0" text="Wybierz klasę" />
+      <Label layoutX="24.0" layoutY="18.0" text="Wybierz przedmiot" />
+      <Button id="zapiszok" fx:id="zapiszok" onMousePressed="#addAtt" layoutX="662.0" layoutY="52.0" mnemonicParsing="false" text="Zapisz obecności" />
+   </children>
+</AnchorPane>

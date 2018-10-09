@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import jfxtras.scene.control.agenda.Agenda?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="398.0" prefWidth="648.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edziennik.ParentSource.Controller.PlanController">
+   <children>
+      <TableView id="table" fx:id="table" layoutX="673.0" layoutY="-97.0" prefHeight="398.0" prefWidth="648.0">
+        <columns>
+          <TableColumn id="GODZINA" fx:id="GODZINA" prefWidth="65.0" text="GODZINA" />
+          <TableColumn id="PON" fx:id="PON" prefWidth="115.0" text="PON" />
+            <TableColumn id="WT" fx:id="WT" minWidth="0.0" prefWidth="102.0" text="WT" />
+            <TableColumn id="SR" fx:id="SR" minWidth="0.0" prefWidth="96.0" text="ŚR" />
+            <TableColumn id="CZW" fx:id="CZW" minWidth="0.0" prefWidth="131.0" text="CZW" />
+            <TableColumn id="PT" fx:id="PT" minWidth="0.0" prefWidth="137.0" text="PT" />
+        </columns>
+      </TableView>
+      <Agenda layoutX="-267.0" prefHeight="479.0" prefWidth="916.0" />
+   </children>
+</AnchorPane>
